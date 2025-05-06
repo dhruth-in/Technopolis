@@ -23,4 +23,4 @@ The **Technopolis** project aims to transform the traditional learning experienc
 Our goal is to develop a mobile application that incorporates these gamification elements, making education more interactive and rewarding.
 
 ## Author
-- **Dhruthi N** - Project Author
+**Dhruthi N** - Project Author
